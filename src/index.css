@@ -25,4 +25,8 @@ code {
 .foot-list a {
   text-decoration: none;
   color: gray;
+  font-size: 14px;
+}
+.foot-list a:hover {
+  color: #387ed1;
 }
